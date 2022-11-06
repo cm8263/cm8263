@@ -3,3 +3,5 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cm8263&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### [View my Repositories](https://github.com/inferno-collection)
+---
+![LFS Meme](https://i.imgur.com/xEaWKlW.png)
