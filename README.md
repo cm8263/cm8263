@@ -5,3 +5,4 @@
 ### [View my Repositories](https://github.com/inferno-collection)
 ---
 ![LFS Meme](https://i.imgur.com/xEaWKlW.png)
+![LFS Meme 2](https://i.imgur.com/sl1oVd0.png)
