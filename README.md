@@ -4,5 +4,10 @@
 
 ### [View my Repositories](https://github.com/inferno-collection)
 ---
+# LFS Memes
+### I swear I don't do this on *Purpose*
+Get it? Purpose, my game? No? Ok...
+
 ![LFS Meme](https://i.imgur.com/xEaWKlW.png)
 ![LFS Meme 2](https://i.imgur.com/sl1oVd0.png)
+![LFS Meme 3](https://i.imgur.com/FA6H1rH.png)
